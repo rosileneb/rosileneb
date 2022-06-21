@@ -5,5 +5,5 @@
 - 🌱 Atualmente estou aprendendo sobre programação
 - 💞️ Estou evoluindo. 
 - 
-*- Espero que ao fim da jornada possamos esteja muito melhor!!*
+*- Espero que ao fim da jornada esteja muito melhor!!*
 ![Isso é uma imagem](https://myoctocat.com/assets/images/base-octocat.svg)
