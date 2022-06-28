@@ -7,5 +7,5 @@
 - 
 *- Espero que ao fim da jornada esteja muito melhor!!*
 ![Isso é uma imagem](https://myoctocat.com/assets/images/base-octocat.svg)
-![Isso é uma imagem](https://myoctocat.com/assets/images/base-octocat.svg)
+![Isso é uma imagem]([octocat-1656436876645](https://user-images.githubusercontent.com/105072907/176244978-0bea6b81-e11a-4d56-91f9-a3eae9862c1d.png)
 
