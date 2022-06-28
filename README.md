@@ -7,3 +7,5 @@
 - 
 *- Espero que ao fim da jornada esteja muito melhor!!*
 ![Isso é uma imagem](https://myoctocat.com/assets/images/base-octocat.svg)
+![Isso é uma imagem](https://myoctocat.com/assets/images/base-octocat.svg)
+
